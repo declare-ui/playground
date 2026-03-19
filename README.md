@@ -29,16 +29,16 @@ pnpm dev
 
 - Vite + React
 - Monaco Editor (YAML editing)
-- `@declareui/core` (compiled to WASM for browser use)
+- `@declareuihq/core` (compiled to WASM for browser use)
 - Tailwind CSS
 
 ## Related packages
 
 | Package | Description |
 |:--------|:------------|
-| [`@declareui/core`](https://github.com/declare-ui/core) | Parser, AST, and code generators |
-| [`@declareui/components`](https://github.com/declare-ui/components) | Pre-built component library |
-| [`@declareui/docs`](https://github.com/declare-ui/docs) | Documentation site |
+| [`@declareuihq/core`](https://github.com/declare-ui/core) | Parser, AST, and code generators |
+| [`@declareuihq/components`](https://github.com/declare-ui/components) | Pre-built component library |
+| [`@declareuihq/docs`](https://github.com/declare-ui/docs) | Documentation site |
 
 ## Contributing
 
